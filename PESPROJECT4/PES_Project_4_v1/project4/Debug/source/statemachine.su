@@ -1,0 +1,4 @@
+statemachine.c:13:5:temp_reading	8	static
+statemachine.c:17:5:avg_wait	8	static
+statemachine.c:22:5:alert	8	static
+statemachine.c:26:5:exit_state	8	static
