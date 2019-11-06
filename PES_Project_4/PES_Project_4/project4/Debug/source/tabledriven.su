@@ -1,0 +1,5 @@
+tabledriven.c:53:5:Sm_tempdisc	8	static
+tabledriven.c:98:6:Table_Driven	8	static
+tabledriven.c:113:5:Sm_tempread	120	static
+tabledriven.c:193:5:Sm_tempavg	88	static
+tabledriven.c:319:5:Sm_tempalert	8	static
