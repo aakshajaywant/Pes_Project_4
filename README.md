@@ -13,5 +13,7 @@ In this project we have used a polling approach for I2C communication with the s
 Execution Notes: Change enum value in project.c, state_driven.c, table
 
 Observations:
-Implemented I2C protocol with TMP102 sensor. 
+1) Implemented I2C protocol with TMP102 sensor on KL25Z.
+2) Handled 2 state machines- State driven state machine using switch case and table driven state machine using struct arrays and function pointers.
+3) Learnt how to set temperature register, configuration register, temperature low and high register of TMP102 sensor.
 
