@@ -3,7 +3,7 @@
    	   	   AAKSHA JAYWANT (AAJA1276) & RUCHA BORWANKAR (RUBO1268)
                    Cross Platform IDE: MCUXpresso IDE v11
                        Cross-Compiler: ARM GCC (FB version)
- 	 	 	 	 	 	 	        MAIN.C
+ 	 	 			MAIN.C
 ********************************************************************************/
 /**************Header files**************/
 #include <stdint.h>
